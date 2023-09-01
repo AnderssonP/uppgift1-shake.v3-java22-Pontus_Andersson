@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">inlämning 1</string>
+    <string name="sc">Kolla rumstempen</string>
+    <string name="img">Bild</string>
+    <string name="Steps">Steg räknare</string>
+    <string name="temp">Rumstemperatur</string>
+    <string name="accel">Acceleration</string>
+</resources>
